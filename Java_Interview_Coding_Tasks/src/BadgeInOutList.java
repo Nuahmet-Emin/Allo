@@ -30,6 +30,7 @@ public class BadgeInOutList {
         for (int i = 0; i < arr.length; i++) {
             uniqueName.add(arr[i][0]);
         }
+// this is so hard
 
         for (String eachName : uniqueName) {
             int count = 0;
