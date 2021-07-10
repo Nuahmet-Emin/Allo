@@ -11,7 +11,9 @@ public class BadgeInOutList {
                           {"Paul","Badge Out"},
                           {"Paul","Badge Out"},
                           {"Tom","Badge Out"},
-                          {"Tom","Badge Out"}
+                          {"Tom","Badge Out"},
+                {"Tom","Badge Out"}
+
 
         }   ;
 
